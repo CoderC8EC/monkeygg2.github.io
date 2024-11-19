@@ -186,11 +186,6 @@
             "categories": []
         },
         "Clicker Heroes": {
-            "path": "clicker-heroes",
-            "aliases": [],
-            "categories": []
-        },
-        "Clicker Heroes Updated": {
             "path": "clicker-heroes-updated",
             "aliases": [],
             "categories": []
@@ -312,11 +307,6 @@
         },
         "Eaglercraft 1.5.2": {
             "path": "eaglercraft",
-            "aliases": [],
-            "categories": []
-        },
-        "Eaglercraft 1.8.8 (Multiplayer Only)": {
-            "path": "eaglercraftx/",
             "aliases": [],
             "categories": []
         },
@@ -901,7 +891,7 @@
         // coming soon
     },
     "config": {
-        "proxy": false, // proxy only works when self-hosted
+        "proxy": true, // proxy only works when self-hosted
         "proxyPath": "/proxy.html" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
         // if you are using VioletGG2, all you need to do set proxy to true
         // proxyPath is already set for you if you are using VioletGG2
