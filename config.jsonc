@@ -892,7 +892,7 @@
     },
     "config": {
         "proxy": true, // proxy only works when self-hosted
-        "proxyPath": "https://simple-dulcinea-nexial-845d4f2c.koyeb.app/" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
+        "proxyPath": "https://only-augusta-quiteafancyemerald-96bfebd5.koyeb.app/s" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
         // if you are using VioletGG2, all you need to do set proxy to true
         // proxyPath is already set for you if you are using VioletGG2
     }
