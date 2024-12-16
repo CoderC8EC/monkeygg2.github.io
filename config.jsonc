@@ -305,11 +305,6 @@
             "aliases": [],
             "categories": []
         },
-        "Eaglercraft 1.5.2": {
-            "path": "eaglercraft",
-            "aliases": [],
-            "categories": []
-        },
         "EvoWars": {
             "path": "evowars",
             "aliases": [],
@@ -486,6 +481,11 @@
             "aliases": [],
             "categories": []
         },
+        "Minecraft (1.8)": {
+            "path": "https://catfoolyou.github.io/Website-v2/eaglerx/index.html",
+            "aliases": [],
+            "categories": []
+        },
         "Monkey Mart": {
             "path": "monkey-mart",
             "aliases": [],
@@ -543,11 +543,6 @@
         },
         "P.craft": {
             "path": "pcraft",
-            "aliases": [],
-            "categories": []
-        },
-        "Precision Client (Eaglercraft 1.5.2)": {
-            "path": "precision-client/",
             "aliases": [],
             "categories": []
         },
@@ -892,7 +887,7 @@
     },
     "config": {
         "proxy": true, // proxy only works when self-hosted
-        "proxyPath": "https://only-augusta-quiteafancyemerald-96bfebd5.koyeb.app/s" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
+        "proxyPath": "https://login.sequoiapartners.com/" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
         // if you are using VioletGG2, all you need to do set proxy to true
         // proxyPath is already set for you if you are using VioletGG2
     }
